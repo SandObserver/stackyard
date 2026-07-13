@@ -1,4 +1,4 @@
-FROM node:24-alpine
+FROM node:26-alpine
 
 LABEL org.opencontainers.image.title="Stackyard" \
       org.opencontainers.image.description="Self-hosted homelab dashboard" \
